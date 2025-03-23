@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AI-marking-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PaddleOCR" vcs="Git" />
   </component>
 </project>
